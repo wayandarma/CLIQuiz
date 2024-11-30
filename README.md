@@ -11,8 +11,6 @@ An interactive command-line quiz application that generates questions using Open
 - 📊 Instant scoring and feedback
 - 🔄 Multiple difficulty levels
 
-![Features Overview](docs/images/features.png)
-
 ## Setup
 
 1. Clone the repository
@@ -32,8 +30,6 @@ python src/main.py
 ```
 
 Here's how it looks in action:
-
-![Quiz Example](docs/images/quiz-example.png)
 
 ## Testing
 
