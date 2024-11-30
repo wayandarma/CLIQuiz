@@ -2,6 +2,17 @@
 
 An interactive command-line quiz application that generates questions using OpenAI's API.
 
+![Quiz CLI Demo](docs/images/demo.png)
+
+## Features
+
+- 🎯 Dynamic quiz generation using OpenAI
+- 🎨 Beautiful CLI interface
+- 📊 Instant scoring and feedback
+- 🔄 Multiple difficulty levels
+
+![Features Overview](docs/images/features.png)
+
 ## Setup
 
 1. Clone the repository
@@ -20,6 +31,10 @@ Run the application:
 python src/main.py
 ```
 
+Here's how it looks in action:
+
+![Quiz Example](docs/images/quiz-example.png)
+
 ## Testing
 
 Run tests using pytest:
@@ -34,7 +49,11 @@ Created by DarmaCoder
 
 ## Connect With Me
 
-- Instagram: [@greatwynma_ig](https://www.instagram.com/greatwynma_ig/)
+<p align="left">
+  <a href="https://www.instagram.com/greatwynma_ig/">
+    <img src="docs/images/instagram.png" alt="Instagram" width="40" height="40"/>
+  </a>
+</p>
 
 ## License & Copyright
 
@@ -51,4 +70,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by DarmaCoder
+<p align="center">
+  <img src="./docs/images/logo.jpg" alt="DarmaCoder Logo" width="100"/>
+  <br>
+  Made with ❤️ by DarmaCoder
+</p>
