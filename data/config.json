@@ -1,0 +1,5 @@
+{
+  "default_difficulty": "medium",
+  "default_questions": 5,
+  "available_difficulties": ["easy", "medium", "hard"]
+}
